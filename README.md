@@ -8,6 +8,7 @@ Django REST Framework (DRF)
 Function-Based Views (FBV)
 
 Class-Based Views (CBV)
+-------------------------------------
 
  Features 🚀 :
 
@@ -18,14 +19,14 @@ User-friendly API design
 Combination of FBV, CBV, and DRF
 
 Extendable backend for community platforms or forum-like applications.
-
+-----------------------------------------------------------
 
 🛠 Technologies Used :
 
 - Python
 - Django
 - Django REST Framework.
-
+-----------------------------------
 
 📂 Project Structure (Example)
 project_root/
@@ -34,6 +35,7 @@ project_root/
 │── requirements.txt
 │── manage.py
 │── README.md
+-----------------------------------------
 
 ▶️ How to Run the Project
 
